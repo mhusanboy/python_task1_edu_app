@@ -1,0 +1,3 @@
+id,class_id,day,lessons_json
+1,10-A,Monday,"{'09:00': {'subject': 'Math', 'teacher_id': 2}, '10:00': {'subject': 'Chemistry', 'teacher_id': 2}, '11:00': {'subject': 'History', 'teacher_id': 999}}"
+2,11-B,Monday,{}

@@ -1,0 +1,6 @@
+id,message,recipient_id,created_at,is_read,priority
+1,New assignment: 'Algebra Homework 1' for Math. Deadline: 2025-06-21T12:11:14.988041,3,2025-06-14T12:11:15.039138,True,0
+4,You received a grade of 4 for 'Algebra Homework 1' in Math.,3,2025-06-14T12:11:15.068246,False,2
+5,Don't forget your upcoming Informatics test!,3,2025-06-14T12:11:15.068309,False,1
+3,New assignment: 'Algebra Homework 1' for Math. Deadline: 2025-06-21T12:11:14.988041,4,2025-06-14T12:11:15.039168,False,0
+2,"Your child, Mardon Hazratov, has a new assignment: 'Algebra Homework 1'.",5,2025-06-14T12:11:15.039155,False,0

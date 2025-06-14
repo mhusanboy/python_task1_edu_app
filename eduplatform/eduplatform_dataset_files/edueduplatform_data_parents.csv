@@ -1,0 +1,2 @@
+user_id,full_name,children_ids,notification_preferences
+5,David Johnson,3,"{'low_grade_alert': True, 'new_assignment_alert': True}"
