@@ -1,5 +1,0 @@
-user_id,full_name,grade,subjects,assignments,grades_data
-3,Mardon Hazratov,10-A,"{'Math': 2, 'Informatics': 2}",{1: 'Submitted'},{'Math': [4]}
-4,Shahriyor Yuldashev,10-A,{'Math': 2},{},{}
-6,Cristiano Ronaldo,9-B,{},{},{}
-7,Grace Lee,11-B,{'Informatics': 2},{},{}
